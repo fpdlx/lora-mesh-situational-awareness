@@ -37,15 +37,7 @@ I principali contributi sono:
 
 ## Architettura del sistema
 
-```mermaid
-flowchart LR
-    A[ATAK-CIV] <--> B[App Meshtastic]
-    B <--> C[Nodo LoRa / Meshtastic]
-    C <--> D[Rete Mesh LoRa]
-    D <--> E[Nodo LoRa / Meshtastic]
-    E <--> F[App Meshtastic]
-    F <--> G[ATAK-CIV]
-```
+![Architettura del sistema](./immagini/architettura.png)
 
 L'architettura integra:
 
