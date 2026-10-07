@@ -1,6 +1,6 @@
 # Reti Mesh Decentralizzate LoRa per la Situational Awareness in Contesti Off-Grid
 
-**Tesi di Laurea Magistrale in Sicurezza Informatica — Tecnologie e Sicurezza delle Reti di Comunicazione**  
+**Tesi di Laurea Magistrale in Sicurezza Informatica - Tecnologie e Sicurezza delle Reti di Comunicazione**  
 **Francesco Paolo Di Lorenzo**  
 Anno Accademico 2025/2026
 
@@ -45,6 +45,8 @@ L'architettura integra:
 - **Meshtastic**, firmware open-source che abilita una rete mesh LoRa decentralizzata e multi-hop;
 - **ATAK-CIV**, piattaforma per la Situational Awareness e la costruzione di una Common Operational Picture condivisa;
 - il **plugin ATAK per Meshtastic**, utilizzato come livello di integrazione tra il dispositivo mobile e la rete mesh LoRa.
+
+![Scenario_tecnologico](./immagini/scenario_tecnologico.png)
 
 ## Analisi di sicurezza
 
