@@ -37,7 +37,7 @@ I principali contributi sono:
 
 ## Architettura del sistema
 
-![Architettura del sistema](./immagini/architettura.png)
+![Architettura del sistema](./immagini/Architettura.png)
 
 L'architettura integra:
 
